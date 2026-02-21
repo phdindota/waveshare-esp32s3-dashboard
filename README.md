@@ -2,7 +2,7 @@
 
 ESPHome firmware for the [Waveshare ESP32-S3 7" Capacitive Touch LCD](https://www.waveshare.com/esp32-s3-touch-lcd-7.htm) (800×480, 8MB flash, 8MB PSRAM) running a Home Assistant control panel.
 
-![Dashboard Layout](docs/layout.png)
+![Dashboard Layout](customization/docs/layout.png)
 
 ## Features
 
